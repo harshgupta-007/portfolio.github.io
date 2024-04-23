@@ -1,1 +1,1 @@
-
+I'm Harsh, a versatile Data Analyst/Data Science enthusiast, passionate about solving complex problems with cutting-edge technology. With a Master's degree in Mathematics and Computing and experience in domains like computer vision and machine learning, I bring a strong technical foundation to projects.Proficient in languages Python, I've also worked with databases such as SQL Server and MongoDB, handling large datasets effectively.
